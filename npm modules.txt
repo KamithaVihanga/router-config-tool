@@ -1,0 +1,2 @@
+npm install express mysql body-parser
+npm install cors
